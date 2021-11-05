@@ -90,7 +90,19 @@ html {
 } 
 .dwnld{
     color="white";
-}    
+} 
+.dbtn{
+				color:white;
+				background-color:black;
+				padding:10px;
+				border-radius:10px;
+}   
+.dbtn:hover{
+				color:black;
+				background-color:white;
+				padding:10px;
+				border-radius:10px;
+}   
 .clearfix {
     zoom: 1;
 }
