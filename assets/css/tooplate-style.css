@@ -1,10 +1,4 @@
-/*
 
-Tooplate 2116 Blugoon
-
-https://www.tooplate.com/view/2116-blugoon
-
-*/
 
 @import url(fontawesome.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,900");
@@ -310,6 +304,9 @@ html {
 	font-size: 1.3em;
 }
 
+#future2023{
+				border-radius:20px;
+}
 
 /* Section */
 
